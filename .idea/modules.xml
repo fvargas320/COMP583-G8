@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/COMP583-G8.iml" filepath="$PROJECT_DIR$/.idea/COMP583-G8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Drinkly.iml" filepath="$PROJECT_DIR$/.idea/modules/Drinkly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Drinkly.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Drinkly.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Drinkly.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Drinkly.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Drinkly.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Drinkly.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Drinkly.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Drinkly.app.unitTest.iml" />
     </modules>
   </component>
 </project>
