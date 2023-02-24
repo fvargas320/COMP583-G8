@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/COMP583-G8.Drinkly.iml" filepath="$PROJECT_DIR$/.idea/modules/COMP583-G8.Drinkly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/COMP583-G8.Drinkly.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/COMP583-G8.Drinkly.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/COMP583-G8.Drinkly.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/COMP583-G8.Drinkly.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/COMP583-G8.Drinkly.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/COMP583-G8.Drinkly.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/COMP583-G8.Drinkly.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/COMP583-G8.Drinkly.app.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Drinkly.iml" filepath="$PROJECT_DIR$/.idea/modules/Drinkly.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Drinkly.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Drinkly.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Drinkly.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Drinkly.app.androidTest.iml" />
